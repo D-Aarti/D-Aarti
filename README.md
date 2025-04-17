@@ -44,6 +44,9 @@ Strong understanding of data storytelling and business KPIs
 Real-time, user-friendly design thinking approach
 Analytical mindset: interpreting business data from a decision-maker’s perspective
 
+## Dashboard
+<a href="https://github.com/D-Aarti/Interactive-Excel-Dashboard-for-Vrinda-Store-Sales-Analysis./blob/main/dashboard%20image.png"> Vrinda store dashboard </a>
+
 ✅ Conclusion:
 The Vrinda Store Interactive Excel Dashboard successfully transformed complex, raw data into a visually compelling and easy-to-navigate interface. By leveraging Excel's advanced features, the dashboard empowers stakeholders to uncover business insights, monitor performance trends, and make data-driven decisions — all in real-time.
 
